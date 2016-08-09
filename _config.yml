@@ -1,18 +1,18 @@
-typography_spectrum: 0.9715996913146228
+typography_spectrum: 0.36221916950307786
 content_rating:
   adult: true
 color:
-  brandStrength: 0.8372856858186424
-  lightness: 0.4306266226340085
-  saturation: 0.2780590574257076
-  rhythmicContrast: 0.2816225260030478
+  brandStrength: 0.8539943813811988
+  lightness: 0.514959217980504
+  saturation: 0.8485913006588817
+  rhythmicContrast: 0.1659286895301193
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.3752022422850132
+    - '#F0E3D3'
+    - '#000000'
+    - '#CEB9A2'
+    - '#A9947D'
+    - '#5D4A44'
+layout_spectrum: 0.5494953854940832
 author:
   name: Vaughn D. Taylor
   email: vaughn.taylor@gmail.com
